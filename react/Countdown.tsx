@@ -1,5 +1,3 @@
-import React from 'react'
-
 interface CountdownProps {}
 
 const Countdown: StorefrontFunctionComponent<CountdownProps> = ({}) => {
